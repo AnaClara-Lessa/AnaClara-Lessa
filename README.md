@@ -1,7 +1,7 @@
 <!-- Banner de boas-vindas -->
 <div align="center">
   <h1> Oi, eu sou a Ana👋 </h1>
-  <p> Iniciante no ramo da tecnologia e em fase de transição de carreira, vinda do universo de Educação Digital.</p>
+  <p> Iniciante no ramo da tecnologia, em fase de transição de carreira</p>
 </div>
 
 ---
