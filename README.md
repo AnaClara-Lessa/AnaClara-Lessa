@@ -10,7 +10,9 @@
 <p> O que estou aprendendo agora? </p>
 <!-- Use apenas o que você conhece/está aprendendo -->
 <!-- Cada badge vem do shields.io; troque o texto depois de 'badge/' e o 'logo=' para outras techs -->
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
