@@ -20,4 +20,4 @@
 
 ## 🌐 Por onde me encontrar 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anaclara_mlessa/)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white)](anaclaramarqueslessa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=red)](mailto=anaclaramarqueslessa@gmail.com)
